@@ -63,3 +63,5 @@ If you have any questions, please feel free to contact me:
 - Email: [kimaniChambliss@gmail.com](gmail:kimaniChambliss@gmail.com)
 - GitHub: [ManiChams](https://github.com/ManiChams)
 
+  WAS NOT ABLE TO SET UP DATA BASE OR RENDER HALF DONE
+
